@@ -1,0 +1,47 @@
+// Student object
+// Student object to add
+var student = {
+    SchoolId: 17,
+    CategoryId: 1,
+    FeePlanId: 1,
+    StandardId: 1,
+    DivisionId: 1,
+    ZoneFrequencyId: 1,
+    StudentCode: "STUD123",
+    StudentFirstName: "Mango",
+    StudentMiddleName: "Vanilla",
+    StudentLastName: "Amul",
+    StudentGender: "Female",
+    FatherFirstName: "Vanilla",
+    FatherLastName: "Ice-Cream",
+    FatherMobile: "7878787878",
+    MotherFirstName: "Dolly",
+    MotherLastName: "Amul",
+    MotherMobile: "9898989898",
+    GuardianFirstName: "Vanilla",
+    GuardianLastName: "Ice-Cream",
+    GuardianMobile: "7878787878",
+    StudentDateOfBirth: "1987-07-27",
+    StudentDateOfJoining: "1989-06-12",
+    SchoolGRNumber: "124545",
+    StudentAddress: "Hanuman Provision Store",
+    StudentCountry: "India",
+    StudentState: "Maharashtra",
+    StudentPhone: "8585858585",
+    StudentEmail: "mango.vanilla@amul.com",
+    StudentReligion: "Hindu",
+    StudentCast: "Patil",
+    StudentBloodGroup: "B+",
+    CreatedBy:"1",
+};
+
+// School object for update
+var school = {
+    Id: 17,
+    //InstituteId: 15,
+    SchoolName: "St. Xavier School - Pune",
+    SchoolCode: "SXPUN",
+    SchoolEmil: "sxpun@pune.com",
+    SchoolPhone: "02044557788",
+    SchoolAddress: "NSG IT PARK, AUNDH, PUNE",
+};
